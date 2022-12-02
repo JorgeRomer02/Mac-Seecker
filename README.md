@@ -3,7 +3,6 @@
 Author:
 Jorge Alejandro Romero Vazquez
 
-Function:
 The code connects via ssh to a switch using the NETMIKO library
 The search for MAC ADDRESS is carried out in a network of switches (cisco) and automatically manages to obtain: Port, Name of the switch and IP of the switch
 ---------------------------------------------------------------
